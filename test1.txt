@@ -1,6 +1,10 @@
 adding second line
+added thridline by divya
 
 adding one more line to the git hub.
+<<<<<<< HEAD
 
 
 Content added in the git hub
+=======
+>>>>>>> 78b0908624c414149b7ee5c6bedb9c7d809ded4a
